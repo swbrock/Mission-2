@@ -1,0 +1,14 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+label {
+    font-size: 15px;
+    color: darkblue;
+    width: 150px;
+    display: inline-block
+}
+
+li {
+    list-style-type: none;
+}
